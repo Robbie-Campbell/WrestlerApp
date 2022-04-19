@@ -1,0 +1,15 @@
+C:\Users\robbi\RiderProjects\WrestlerApp\bin\Debug\net6.0\WrestlerApp.exe
+C:\Users\robbi\RiderProjects\WrestlerApp\bin\Debug\net6.0\WrestlerApp.deps.json
+C:\Users\robbi\RiderProjects\WrestlerApp\bin\Debug\net6.0\WrestlerApp.runtimeconfig.json
+C:\Users\robbi\RiderProjects\WrestlerApp\bin\Debug\net6.0\WrestlerApp.dll
+C:\Users\robbi\RiderProjects\WrestlerApp\bin\Debug\net6.0\ref\WrestlerApp.dll
+C:\Users\robbi\RiderProjects\WrestlerApp\bin\Debug\net6.0\WrestlerApp.pdb
+C:\Users\robbi\RiderProjects\WrestlerApp\obj\Debug\net6.0\WrestlerApp.csproj.AssemblyReference.cache
+C:\Users\robbi\RiderProjects\WrestlerApp\obj\Debug\net6.0\WrestlerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbi\RiderProjects\WrestlerApp\obj\Debug\net6.0\WrestlerApp.AssemblyInfoInputs.cache
+C:\Users\robbi\RiderProjects\WrestlerApp\obj\Debug\net6.0\WrestlerApp.AssemblyInfo.cs
+C:\Users\robbi\RiderProjects\WrestlerApp\obj\Debug\net6.0\WrestlerApp.csproj.CoreCompileInputs.cache
+C:\Users\robbi\RiderProjects\WrestlerApp\obj\Debug\net6.0\WrestlerApp.dll
+C:\Users\robbi\RiderProjects\WrestlerApp\obj\Debug\net6.0\ref\WrestlerApp.dll
+C:\Users\robbi\RiderProjects\WrestlerApp\obj\Debug\net6.0\WrestlerApp.pdb
+C:\Users\robbi\RiderProjects\WrestlerApp\obj\Debug\net6.0\WrestlerApp.genruntimeconfig.cache
